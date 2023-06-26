@@ -1,0 +1,23 @@
+{
+  "name": "com.samsung.ir",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "homey-rfdriver": "^3.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athombv/com.samsung.ir.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/athombv/com.samsung.ir/issues"
+  },
+  "homepage": "https://github.com/athombv/com.samsung.ir#readme"
+}
