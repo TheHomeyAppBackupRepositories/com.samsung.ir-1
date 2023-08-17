@@ -9,7 +9,7 @@
     "cloud"
   ],
   "brandColor": "#1428A0",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "compatibility": ">=5.0.0",
   "sdk": 3,
   "author": {
@@ -110,6 +110,9 @@
       "images": {
         "small": "/drivers/remote/assets/images/small.jpg",
         "large": "/drivers/remote/assets/images/large.jpg"
+      },
+      "infrared": {
+        "satelliteMode": true
       },
       "platforms": [
         "local",
